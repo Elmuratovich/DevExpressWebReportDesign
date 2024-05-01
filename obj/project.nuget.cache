@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "rdpUqNh/KbQ5MNeEwIAiksH3eTLuLepCL2tP28WCl4yo0odjM0697FTIAoHxCWLAGUHCw64ZI1AbIWbAHV1IJA==",
+  "dgSpecHash": "z0j0/Y1PEMwp+1YoSxTX6NkYzIZ7OejeoFBpBkzCiNkTDdZTdRK9Ax0QBekhEtN7ljsaC8tEix5mfzNPHvK4IQ==",
   "success": true,
   "projectFilePath": "D:\\Asp.Net Core Reporting\\DevExpressReport\\DevExpressReport\\DevExpressReport.csproj",
   "expectedPackageFiles": [
@@ -38,6 +38,7 @@
     "C:\\Users\\makhm\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.4\\microsoft.netcore.platforms.3.1.4.nupkg.sha512",
     "C:\\Users\\makhm\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\makhm\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\makhm\\.nuget\\packages\\npgsql\\6.0.10\\npgsql.6.0.10.nupkg.sha512",
     "C:\\Users\\makhm\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
     "C:\\Users\\makhm\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
     "C:\\Users\\makhm\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",

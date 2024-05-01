@@ -51,6 +51,10 @@
             "DevExpress.AspNetCore.Reporting": {
               "target": "Package",
               "version": "[23.2.5, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[6.0.10, )"
             }
           },
           "imports": [

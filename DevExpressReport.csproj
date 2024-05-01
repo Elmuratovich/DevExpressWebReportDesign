@@ -8,6 +8,11 @@
 
   <ItemGroup>
     <PackageReference Include="DevExpress.AspNetCore.Reporting" Version="23.2.5" />
+    <PackageReference Include="Npgsql" Version="6.0.10" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Reports\" />
   </ItemGroup>
 
 </Project>
